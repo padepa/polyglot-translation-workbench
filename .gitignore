@@ -12,6 +12,7 @@ env/
 # Build output
 build/
 dist/
+release/
 *.spec.bak
 
 # Local logs and temporary files
