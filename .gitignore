@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.build-venv/
+
+# Build output
+build/
+dist/
+*.spec.bak
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.bak
+native_tk_app_error.log
+
+# Local screenshots / manual QA captures
+desktop-app-*.png
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Project-local progress notes
+进度说明.md
+
+# Local legacy WebView prototype kept out of the public source package
+desktop_webview_app.py
+triple_translate_ui.py
+ui/
+run_browser_ui.bat
+run_ui.bat
+run_desktop_app.bat
+run_desktop_app_debug.bat
+三连翻译工作台.spec
+打开三连翻译工作台.bat
+桌面版说明.md
